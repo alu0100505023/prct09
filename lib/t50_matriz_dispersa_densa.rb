@@ -1,5 +1,8 @@
 require "t50_matriz_dispersa_densa/version"
+require "matriz.rb"
+require "matriz_dispersa.rb"
+require "matriz_densa.rb"
 
 module T50MatrizDispersaDensa
-  # Your code goes here...
+
 end
