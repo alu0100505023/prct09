@@ -1,4 +1,4 @@
-require "matriz"
+require "matriz.rb"
 
 class matriz_densa < matriz;
 

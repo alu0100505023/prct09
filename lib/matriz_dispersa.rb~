@@ -1,5 +1,21 @@
+require "matriz"
 
-class matriz_dispersa << matriz;
+class matriz_dispersa < matriz;
 
+	def +(other)
+
+	end
+
+	def -(other)
+
+	end
+
+	def *(other)
+
+	end
+
+	def coerce(other)
+		return [other,self]
+	end
 
 end
